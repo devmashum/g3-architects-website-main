@@ -73,6 +73,14 @@ li>a {
     color: black;
 }
 
+.G3 {
+    color: rgb(255, 144, 14);
+    font-size: 40px;
+    border: 10px solid white;
+    border-radius: 50px;
+    text-align: center;
+}
+
 /* Header Section End */
 
 /* Banner Section Start */
